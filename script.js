@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
     var typed = new Typed('.typed', {
-        strings: ['Hello,', 'You can find weather info right here !!'],
+        strings: ['Hello,', 'You can find weather info right here!'],
         smartBackspace: true,
         loop: true,
         typeSpeed: 100,
@@ -27,7 +27,7 @@ $(document).ready(function() {
                         </div>
                 </div>
             </div>
-            </div>);
+            </div>`);
         });
 
     })
